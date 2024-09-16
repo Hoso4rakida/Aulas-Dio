@@ -6,7 +6,7 @@
   aprendizados de C#.
 </p>
 
-#Como funciona
+<h1>Como funciona</h1>
 
 <p>
   Estarei me esforçando para estar deixanod
