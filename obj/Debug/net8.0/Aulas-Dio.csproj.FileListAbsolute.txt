@@ -1,0 +1,15 @@
+E:\aulas\Dio\Aulas-Dio\bin\Debug\net8.0\Aulas-Dio.exe
+E:\aulas\Dio\Aulas-Dio\bin\Debug\net8.0\Aulas-Dio.deps.json
+E:\aulas\Dio\Aulas-Dio\bin\Debug\net8.0\Aulas-Dio.runtimeconfig.json
+E:\aulas\Dio\Aulas-Dio\bin\Debug\net8.0\Aulas-Dio.dll
+E:\aulas\Dio\Aulas-Dio\bin\Debug\net8.0\Aulas-Dio.pdb
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.GeneratedMSBuildEditorConfig.editorconfig
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.AssemblyInfoInputs.cache
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.AssemblyInfo.cs
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.csproj.CoreCompileInputs.cache
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.sourcelink.json
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.dll
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\refint\Aulas-Dio.dll
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.pdb
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\Aulas-Dio.genruntimeconfig.cache
+E:\aulas\Dio\Aulas-Dio\obj\Debug\net8.0\ref\Aulas-Dio.dll
