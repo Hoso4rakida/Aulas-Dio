@@ -9,7 +9,7 @@
 <h1>Como funciona</h1>
 
 <p>
-  Estarei me esforçando para estar deixanod
+  Estarei me esforçando para estar deixando
   este repositorio atualizado a medida que
   vou aprendendo.
 </p>
